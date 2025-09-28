@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Calcina Jara, Frank Gino",
+    "rol": "Líder de proyecto · Coordinación académica",
+    "enfoque": [
+      "Planificación",
+      "Gestión de entregables",
+      "Vinculación docente"
+    ],
+    "skills": [
+      "Gestión de proyectos",
+      "Documentación",
+      "Comunicación"
+    ],
+    "bio": "Coordina el roadmap, define alcance y criterios de aceptación. Asegura la alineación con objetivos académicos y la ética de uso de IA.",
+    "links": {
+      "GitHub": "#",
+      "LinkedIn": "#",
+      "Email": ""
+    }
+  },
+  {
+    "nombre": "Condori Quilla Rudy Franklin",
+    "rol": "Analista programador",
+    "enfoque": [
+      "Diseño web",
+      "Maquetación web",
+      "Calidad de datos"
+    ],
+    "skills": [
+      "Modelado de datos",
+      "DAX/M",
+      "Automatización"
+    ],
+    "bio": "Diseña modelos de datos y pipelines reproducibles. Lidera indicadores y visualizaciones con énfasis en trazabilidad y rendimiento. Como desarrollador, integra soluciones frontend con backend de datos, asegurando accesibilidad y escalabilidad.",
+    "links": {
+      "GitHub": "#",
+      "LinkedIn": "#",
+      "Email": ""
+    }
+  },
+  {
+    "nombre": "Mendoza Salluca William David",
+    "rol": "Investigación · Contenidos y curaduría",
+    "enfoque": [
+      "Marco teórico",
+      "Síntesis de fuentes",
+      "Redacción"
+    ],
+    "skills": [
+      "Revisión de literatura",
+      "Citas APA/IEEE",
+      "Comunicación científica"
+    ],
+    "bio": "Estructura el marco teórico y los contenidos ampliados. Garantiza rigor y referencias verificables.",
+    "links": {
+      "GitHub": "#",
+      "LinkedIn": "#",
+      "Email": ""
+    }
+  },
+  {
+    "nombre": "Roque Quispe Frank Jhordan",
+    "rol": "DevOps · Publicación y CI/CD",
+    "enfoque": [
+      "GitHub Pages",
+      "Automatización",
+      "Observabilidad"
+    ],
+    "skills": [
+      "GitHub Actions",
+      "Build estático",
+      "Monitoreo"
+    ],
+    "bio": "Estandariza el flujo de despliegue y versionado. Configura automatizaciones para validaciones y releases.",
+    "links": {
+      "GitHub": "#",
+      "LinkedIn": "#",
+      "Email": ""
+    }
+  },
+  {
+    "nombre": "Umasi Jayta Jhoel Josué",
+    "rol": "Frontend · UX/UI",
+    "enfoque": [
+      "Accesibilidad",
+      "Componentes",
+      "Rendimiento"
+    ],
+    "skills": [
+      "HTML/CSS/JS",
+      "A11y (WCAG)",
+      "Performance"
+    ],
+    "bio": "Desarrolla componentes accesibles, optimiza rendimiento (LCP, CLS) y asegura consistencia visual.",
+    "links": {
+      "GitHub": "#",
+      "LinkedIn": "#",
+      "Email": ""
+    }
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "descripcion": {
+    "title": "Descripción ampliada",
+    "intro": "Panorama general del proyecto y sus motivaciones.",
+    "body": [
+      "<p>Este recurso nació para acompañar a estudiantes y docentes que desean integrar la IA en sus cursos sin perder el foco en el pensamiento crítico y la autoría. Reúne definiciones, líneas de tiempo, ventajas y riesgos y ejemplos guiados.</p>",
+      "<h5>¿Qué resuelve?</h5><ul><li>Reduce la curva de aprendizaje al seleccionar herramientas pertinentes.</li><li>Ofrece pautas éticas (citas, privacidad, sesgos).</li><li>Propone dinámicas de trabajo colaborativo.</li></ul>",
+      "<h5>Alcance</h5><p>Cubre conceptos esenciales, referencias base y un catálogo curado de herramientas con casos de uso para tareas frecuentes en la universidad.</p>"
+    ]
+  },
+  "objetivos": {
+    "title": "Objetivos ampliados",
+    "intro": "Detalle del objetivo general y la trazabilidad de los específicos.",
+    "body": [
+      "<p><strong>Objetivo general:</strong> Analizar y sistematizar el impacto de la IA en el aprendizaje universitario mediante una guía digital colaborativa.</p>",
+      "<h5>Matriz de trazabilidad</h5><ol><li>Explorar conceptos → <em>Marco teórico</em> y glosario.</li><li>Organizar fuentes → <em>Referencias</em> y <em>catálogo</em>.</li><li>Beneficios/limitaciones → Secciones <em>Problema</em> y <em>Justificación</em>.</li><li>Publicación web → Este sitio (GitHub Pages).</li><li>Uso ético → Recomendaciones y citas.</li></ol>"
+    ]
+  },
+  "problema": {
+    "title": "Planteamiento del problema (ampliado)",
+    "intro": "Riesgos y oportunidades que motivan el proyecto.",
+    "body": [
+      "<p>Las IAs prometen personalización y eficiencia, pero conllevan riesgos reales: dependencia, alucinaciones, sesgos en datos, propiedad intelectual y privacidad.</p>",
+      "<h5>Pregunta guía</h5><p>¿Cómo integrar herramientas de IA de forma estratégica y responsable para potenciar competencias sin sustituir el esfuerzo personal?</p>",
+      "<h5>Supuestos</h5><ul><li>El docente define límites de uso.</li><li>El estudiante conserva la autoría.</li><li>Las herramientas son complementarias.</li></ul>"
+    ]
+  },
+  "justificacion": {
+    "title": "Justificación (ampliada)",
+    "intro": "Por qué es valioso y pertinente.",
+    "body": [
+      "<p>Aporta equidad y accesibilidad (apoyos de lectura/escritura), acelera borradores y fomenta retroalimentación continua. Requiere políticas claras para evitar dependencia y plagio.</p>",
+      "<p>El proyecto promueve una cultura digital crítica, basada en evidencia y con respeto a datos personales.</p>"
+    ]
+  },
+  "metodologia": {
+    "title": "Nota metodológica (ampliada)",
+    "intro": "Cómo se construyó y cómo se puede adaptar.",
+    "body": [
+      "<h5>Fases</h5><ol><li>Exploración y curaduría.</li><li>Prototipado del sitio y validaciones.</li><li>Iteración con retroalimentación.</li></ol>",
+      "<h5>Buenas prácticas</h5><ul><li>Versionado en GitHub.</li><li>Fuentes citadas y diferenciación de aportes humanos vs. IA.</li><li>Privacidad y minimización de datos.</li></ul>"
+    ]
+  },
+  "marco": {
+    "title": "Marco teórico (ampliado)",
+    "intro": "Conceptos clave y líneas de aplicación educativa.",
+    "body": [
+      "<p>La IA abarca aprendizaje automático, profundo y procesamiento del lenguaje. En educación, destaca la tutoría automática, retroalimentación formativa y analítica del aprendizaje.</p>",
+      "<h5>Lecturas base</h5><ul><li>Russell & Norvig (AIMA)</li><li>Goodfellow et al. (Deep Learning)</li><li>UNESCO: AI & Education</li></ul>"
+    ]
+  },
+  "herramientas": {
+    "title": "Herramientas (cómo elegir)",
+    "intro": "Criterios para seleccionar la IA adecuada a la tarea.",
+    "body": [
+      "<ul><li><strong>Claridad de propósito:</strong> búsqueda, lectura, redacción, organización.</li><li><strong>Privacidad:</strong> datos sensibles fuera de herramientas públicas.</li><li><strong>Transparencia:</strong> preferir resultados con fuentes citadas.</li><li><strong>Portabilidad:</strong> exportar a formatos abiertos.</li></ul>"
+    ]
+  },
+  "referencias": {
+    "title": "Referencias y notas de uso",
+    "intro": "Sugerencias para citar y ampliar lecturas.",
+    "body": [
+      "<p>Usa gestores como Zotero/Mendeley; normaliza estilos (APA/IEEE). Revisa políticas de uso de IA de tu institución.</p>"
+    ]
+  }
+}
